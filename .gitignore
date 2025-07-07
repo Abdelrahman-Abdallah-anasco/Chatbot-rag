@@ -1,0 +1,8 @@
+.env
+.zip
+ai-env/
+__pycache__/
+training/
+faiss-idx-engine.ipynb
+faiss-idx-engine-url.ipynb
+uploads
